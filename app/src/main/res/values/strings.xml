@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NCC</string>
+    <string name="welcome_string">Welcome to naveen coaching classes</string>
+    <string name="content">An Institute for Industrial training in PHP and Java\n
+    We provide 6 weeks and 6 months Industrial Training for IT students\n
+    The training is for B Tech CS,IT and MCA student.</string>
+    <string name="courses">Courses we offer</string>
+</resources>
